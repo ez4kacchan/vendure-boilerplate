@@ -61,6 +61,3 @@ that has been auto-generated on railway, and add to your `.env`. Or use value fo
 `yarn build` or `npm run build` will compile the app.
 `yarn dev` or `npm run dev` will start the local admin dashboard app to manage products and orders etc. at: `localhost:3000/admin`
 `yarn start` or `npm run start` will start the backend server and serve admin dashboard. at: `localhost:3000/admin`
-
-### additional resources
-- **Tutorial blog post**: [Vendure Tutorial on FunkyTon](https://funkyton.com/vendure-tutorial/)
